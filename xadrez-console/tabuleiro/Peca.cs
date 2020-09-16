@@ -15,5 +15,9 @@ namespace xadrez_console.tabuleiro {
             this.cor = cor;
             this.qtdMovimentos = 0;
         }
+
+        public void incrementaQteMovimentos() {
+            qtdMovimentos++;
+        }
     }
 }
