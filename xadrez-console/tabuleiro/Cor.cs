@@ -10,7 +10,7 @@ namespace xadrez_console.tabuleiro {
         Azul,
         Vermelha,
         Verde,
-        Laranja
+        Laranja,
 
 
     }
