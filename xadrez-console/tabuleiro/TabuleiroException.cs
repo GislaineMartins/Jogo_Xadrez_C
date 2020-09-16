@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace xadrez_console.tabuleiro {
-    class TabuleiroException : Exception{
+    class TabuleiroException : Exception {
 
         public TabuleiroException(string msg) : base(msg) {
 
